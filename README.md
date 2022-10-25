@@ -1,4 +1,4 @@
-在PaaS上部署Xray,带伪装页面
+在PaaS上部署Xc,带伪装页面
 
 [镜像](https://hub.docker.com/r/wgp233/paas)：`wgp233/paas:x`
 
@@ -53,4 +53,4 @@ vless + vmess + trojan + shadowsocks2022
 
 
 
-[Xray v1.6.0](https://github.com/XTLS/Xray-core)	·	[Caddy v2.6.1](https://github.com/caddyserver/caddy)	·	[2048小游戏](https://github.com/gabrielecirulli/2048)
+[Xc v1.6.0](https://github.com/XTLS/Xc-core)	·	[Caddy v2.6.1](https://github.com/caddyserver/caddy)	·	
